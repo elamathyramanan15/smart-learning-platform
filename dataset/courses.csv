@@ -1,0 +1,501 @@
+title,category,level,rating,url,tags
+AI Masterclass 1,AI,Advanced,4.9,https://www.freecodecamp.org,ai ai skills learning
+NLP Career Path 2,AI,Advanced,4.8,https://www.freecodecamp.org,nlp ai skills learning
+AI Automation Career Path 3,AI,Advanced,4.6,https://www.freecodecamp.org,ai automation ai skills learning
+NLP Professional 4,AI,Advanced,4.6,https://learn.microsoft.com,nlp ai skills learning
+AI Automation Career Path 5,AI,Beginner,4.8,https://www.edx.org,ai automation ai skills learning
+Prompt Engineering Hands-on Training 6,AI,Intermediate,4.9,https://www.udemy.com,prompt engineering ai skills learning
+AI Essentials 7,AI,Beginner,4.8,https://learn.microsoft.com,ai ai skills learning
+Prompt Engineering Career Path 8,AI,Intermediate,4.8,https://learn.microsoft.com,prompt engineering ai skills learning
+NLP Professional 9,AI,Advanced,4.8,https://www.coursera.org,nlp ai skills learning
+LLM Advanced Systems 10,AI,Beginner,4.8,https://www.udemy.com,llm ai skills learning
+AI Career Path 11,AI,Intermediate,4.6,https://www.freecodecamp.org,ai ai skills learning
+LLM Career Path 12,AI,Intermediate,4.9,https://www.udemy.com,llm ai skills learning
+AI Foundations 13,AI,Beginner,4.8,https://www.coursera.org,ai ai skills learning
+AI Essentials 14,AI,Intermediate,4.7,https://www.freecodecamp.org,ai ai skills learning
+Computer Vision Professional 15,AI,Intermediate,4.8,https://learn.microsoft.com,computer vision ai skills learning
+Prompt Engineering Hands-on Training 16,AI,Advanced,4.8,https://www.edx.org,prompt engineering ai skills learning
+LLM Bootcamp 17,AI,Intermediate,4.7,https://www.edx.org,llm ai skills learning
+AI Foundations 18,AI,Beginner,4.6,https://www.coursera.org,ai ai skills learning
+LLM Foundations 19,AI,Intermediate,4.8,https://www.udemy.com,llm ai skills learning
+AI Projects 20,AI,Beginner,4.7,https://learn.microsoft.com,ai ai skills learning
+NLP Professional 21,AI,Intermediate,4.8,https://www.udemy.com,nlp ai skills learning
+NLP Hands-on Training 22,AI,Advanced,4.6,https://www.edx.org,nlp ai skills learning
+AI Bootcamp 23,AI,Intermediate,4.6,https://www.freecodecamp.org,ai ai skills learning
+AI Automation Complete Guide 24,AI,Advanced,4.6,https://www.coursera.org,ai automation ai skills learning
+Computer Vision Career Path 25,AI,Advanced,4.7,https://learn.microsoft.com,computer vision ai skills learning
+AI Automation Projects 26,AI,Beginner,4.8,https://www.coursera.org,ai automation ai skills learning
+AI Bootcamp 27,AI,Advanced,4.5,https://www.udemy.com,ai ai skills learning
+LLM Projects 28,AI,Intermediate,4.8,https://www.udemy.com,llm ai skills learning
+Prompt Engineering Bootcamp 29,AI,Beginner,4.6,https://learn.microsoft.com,prompt engineering ai skills learning
+Prompt Engineering Bootcamp 30,AI,Advanced,4.5,https://learn.microsoft.com,prompt engineering ai skills learning
+LLM Professional 31,AI,Beginner,4.7,https://learn.microsoft.com,llm ai skills learning
+LLM Bootcamp 32,AI,Beginner,4.8,https://www.edx.org,llm ai skills learning
+NLP Hands-on Training 33,AI,Advanced,4.8,https://www.coursera.org,nlp ai skills learning
+AI Automation Projects 34,AI,Intermediate,4.9,https://www.freecodecamp.org,ai automation ai skills learning
+Computer Vision Projects 35,AI,Intermediate,4.8,https://www.coursera.org,computer vision ai skills learning
+LLM Projects 36,AI,Advanced,4.7,https://learn.microsoft.com,llm ai skills learning
+AI Professional 37,AI,Advanced,4.7,https://www.edx.org,ai ai skills learning
+LLM Hands-on Training 38,AI,Advanced,4.8,https://www.edx.org,llm ai skills learning
+AI Automation Complete Guide 39,AI,Advanced,4.8,https://www.udemy.com,ai automation ai skills learning
+AI Advanced Systems 40,AI,Advanced,4.8,https://learn.microsoft.com,ai ai skills learning
+Prompt Engineering Foundations 41,AI,Advanced,4.8,https://learn.microsoft.com,prompt engineering ai skills learning
+AI Automation Professional 42,AI,Intermediate,4.7,https://www.freecodecamp.org,ai automation ai skills learning
+AI Automation Career Path 43,AI,Advanced,4.5,https://learn.microsoft.com,ai automation ai skills learning
+Computer Vision Essentials 44,AI,Advanced,4.7,https://www.edx.org,computer vision ai skills learning
+NLP Bootcamp 45,AI,Advanced,4.7,https://www.udemy.com,nlp ai skills learning
+AI Complete Guide 46,AI,Intermediate,4.8,https://www.coursera.org,ai ai skills learning
+NLP Essentials 47,AI,Intermediate,4.7,https://www.coursera.org,nlp ai skills learning
+Computer Vision Hands-on Training 48,AI,Intermediate,4.7,https://www.coursera.org,computer vision ai skills learning
+AI Hands-on Training 49,AI,Intermediate,4.6,https://learn.microsoft.com,ai ai skills learning
+LLM Foundations 50,AI,Intermediate,4.8,https://learn.microsoft.com,llm ai skills learning
+Prompt Engineering Complete Guide 51,AI,Beginner,4.7,https://www.coursera.org,prompt engineering ai skills learning
+Computer Vision Professional 52,AI,Intermediate,4.5,https://learn.microsoft.com,computer vision ai skills learning
+NLP Career Path 53,AI,Advanced,4.6,https://www.freecodecamp.org,nlp ai skills learning
+Computer Vision Complete Guide 54,AI,Beginner,4.6,https://www.edx.org,computer vision ai skills learning
+NLP Projects 55,AI,Intermediate,4.5,https://www.edx.org,nlp ai skills learning
+Computer Vision Projects 56,AI,Beginner,4.6,https://www.freecodecamp.org,computer vision ai skills learning
+LLM Career Path 57,AI,Beginner,4.6,https://www.freecodecamp.org,llm ai skills learning
+AI Automation Hands-on Training 58,AI,Beginner,4.8,https://www.udemy.com,ai automation ai skills learning
+NLP Projects 59,AI,Intermediate,4.9,https://www.edx.org,nlp ai skills learning
+Computer Vision Foundations 60,AI,Advanced,4.7,https://www.udemy.com,computer vision ai skills learning
+Prompt Engineering Masterclass 61,AI,Intermediate,4.9,https://www.coursera.org,prompt engineering ai skills learning
+AI Automation Professional 62,AI,Beginner,4.6,https://www.coursera.org,ai automation ai skills learning
+Deep Learning Masterclass 1,Machine Learning,Beginner,4.7,https://www.coursera.org,deep learning machine learning skills learning
+Deep Learning Career Path 2,Machine Learning,Beginner,4.7,https://www.coursera.org,deep learning machine learning skills learning
+Feature Engineering Foundations 3,Machine Learning,Intermediate,4.6,https://www.udemy.com,feature engineering machine learning skills learning
+Deep Learning Bootcamp 4,Machine Learning,Advanced,4.7,https://www.udemy.com,deep learning machine learning skills learning
+Deep Learning Career Path 5,Machine Learning,Intermediate,4.6,https://www.udemy.com,deep learning machine learning skills learning
+Feature Engineering Hands-on Training 6,Machine Learning,Intermediate,4.8,https://www.edx.org,feature engineering machine learning skills learning
+Deep Learning Bootcamp 7,Machine Learning,Beginner,4.6,https://www.coursera.org,deep learning machine learning skills learning
+Deep Learning Hands-on Training 8,Machine Learning,Intermediate,4.5,https://www.freecodecamp.org,deep learning machine learning skills learning
+Deep Learning Essentials 9,Machine Learning,Advanced,4.8,https://www.edx.org,deep learning machine learning skills learning
+Feature Engineering Projects 10,Machine Learning,Advanced,4.7,https://www.udemy.com,feature engineering machine learning skills learning
+Feature Engineering Complete Guide 11,Machine Learning,Advanced,4.7,https://www.udemy.com,feature engineering machine learning skills learning
+Feature Engineering Professional 12,Machine Learning,Intermediate,4.8,https://www.edx.org,feature engineering machine learning skills learning
+PyTorch Career Path 13,Machine Learning,Advanced,4.9,https://www.edx.org,pytorch machine learning skills learning
+Feature Engineering Hands-on Training 14,Machine Learning,Advanced,4.8,https://www.freecodecamp.org,feature engineering machine learning skills learning
+Deep Learning Professional 15,Machine Learning,Beginner,4.6,https://www.udemy.com,deep learning machine learning skills learning
+Feature Engineering Foundations 16,Machine Learning,Intermediate,4.8,https://learn.microsoft.com,feature engineering machine learning skills learning
+Reinforcement Learning Bootcamp 17,Machine Learning,Intermediate,4.7,https://www.udemy.com,reinforcement learning machine learning skills learning
+PyTorch Projects 18,Machine Learning,Advanced,4.7,https://www.edx.org,pytorch machine learning skills learning
+Reinforcement Learning Career Path 19,Machine Learning,Intermediate,4.6,https://www.edx.org,reinforcement learning machine learning skills learning
+TensorFlow Essentials 20,Machine Learning,Advanced,4.8,https://www.udemy.com,tensorflow machine learning skills learning
+Feature Engineering Bootcamp 21,Machine Learning,Intermediate,4.6,https://learn.microsoft.com,feature engineering machine learning skills learning
+Deep Learning Complete Guide 22,Machine Learning,Advanced,4.5,https://learn.microsoft.com,deep learning machine learning skills learning
+Deep Learning Professional 23,Machine Learning,Intermediate,4.6,https://www.coursera.org,deep learning machine learning skills learning
+Feature Engineering Complete Guide 24,Machine Learning,Beginner,4.7,https://learn.microsoft.com,feature engineering machine learning skills learning
+Feature Engineering Professional 25,Machine Learning,Advanced,4.8,https://www.freecodecamp.org,feature engineering machine learning skills learning
+Deep Learning Complete Guide 26,Machine Learning,Intermediate,4.9,https://www.coursera.org,deep learning machine learning skills learning
+PyTorch Essentials 27,Machine Learning,Intermediate,4.6,https://www.edx.org,pytorch machine learning skills learning
+TensorFlow Complete Guide 28,Machine Learning,Beginner,4.9,https://www.udemy.com,tensorflow machine learning skills learning
+Feature Engineering Hands-on Training 29,Machine Learning,Beginner,4.6,https://learn.microsoft.com,feature engineering machine learning skills learning
+Reinforcement Learning Professional 30,Machine Learning,Beginner,4.5,https://learn.microsoft.com,reinforcement learning machine learning skills learning
+Feature Engineering Foundations 31,Machine Learning,Beginner,4.6,https://www.coursera.org,feature engineering machine learning skills learning
+Reinforcement Learning Masterclass 32,Machine Learning,Intermediate,4.7,https://learn.microsoft.com,reinforcement learning machine learning skills learning
+TensorFlow Masterclass 33,Machine Learning,Beginner,4.6,https://www.coursera.org,tensorflow machine learning skills learning
+Reinforcement Learning Foundations 34,Machine Learning,Beginner,4.7,https://www.coursera.org,reinforcement learning machine learning skills learning
+Reinforcement Learning Essentials 35,Machine Learning,Intermediate,4.6,https://www.udemy.com,reinforcement learning machine learning skills learning
+Feature Engineering Bootcamp 36,Machine Learning,Intermediate,4.8,https://www.coursera.org,feature engineering machine learning skills learning
+Reinforcement Learning Advanced Systems 37,Machine Learning,Beginner,4.5,https://learn.microsoft.com,reinforcement learning machine learning skills learning
+Deep Learning Advanced Systems 38,Machine Learning,Beginner,4.9,https://www.edx.org,deep learning machine learning skills learning
+Reinforcement Learning Bootcamp 39,Machine Learning,Advanced,4.6,https://www.coursera.org,reinforcement learning machine learning skills learning
+TensorFlow Masterclass 40,Machine Learning,Intermediate,4.5,https://www.freecodecamp.org,tensorflow machine learning skills learning
+TensorFlow Complete Guide 41,Machine Learning,Intermediate,4.5,https://learn.microsoft.com,tensorflow machine learning skills learning
+Feature Engineering Foundations 42,Machine Learning,Intermediate,4.8,https://www.edx.org,feature engineering machine learning skills learning
+Feature Engineering Career Path 43,Machine Learning,Beginner,4.5,https://www.coursera.org,feature engineering machine learning skills learning
+Deep Learning Professional 44,Machine Learning,Advanced,4.8,https://www.coursera.org,deep learning machine learning skills learning
+TensorFlow Complete Guide 45,Machine Learning,Intermediate,4.6,https://learn.microsoft.com,tensorflow machine learning skills learning
+Deep Learning Professional 46,Machine Learning,Advanced,4.6,https://www.coursera.org,deep learning machine learning skills learning
+Deep Learning Hands-on Training 47,Machine Learning,Beginner,4.6,https://learn.microsoft.com,deep learning machine learning skills learning
+PyTorch Professional 48,Machine Learning,Intermediate,4.6,https://www.edx.org,pytorch machine learning skills learning
+Feature Engineering Advanced Systems 49,Machine Learning,Intermediate,4.9,https://www.freecodecamp.org,feature engineering machine learning skills learning
+TensorFlow Advanced Systems 50,Machine Learning,Intermediate,4.6,https://www.coursera.org,tensorflow machine learning skills learning
+PyTorch Projects 51,Machine Learning,Beginner,4.5,https://learn.microsoft.com,pytorch machine learning skills learning
+TensorFlow Professional 52,Machine Learning,Intermediate,4.7,https://learn.microsoft.com,tensorflow machine learning skills learning
+Reinforcement Learning Complete Guide 53,Machine Learning,Intermediate,4.8,https://www.coursera.org,reinforcement learning machine learning skills learning
+PyTorch Essentials 54,Machine Learning,Intermediate,4.8,https://www.edx.org,pytorch machine learning skills learning
+Deep Learning Career Path 55,Machine Learning,Advanced,4.6,https://www.freecodecamp.org,deep learning machine learning skills learning
+Reinforcement Learning Foundations 56,Machine Learning,Beginner,4.7,https://www.coursera.org,reinforcement learning machine learning skills learning
+Deep Learning Hands-on Training 57,Machine Learning,Beginner,4.7,https://www.edx.org,deep learning machine learning skills learning
+TensorFlow Masterclass 58,Machine Learning,Beginner,4.5,https://www.coursera.org,tensorflow machine learning skills learning
+TensorFlow Hands-on Training 59,Machine Learning,Advanced,4.8,https://learn.microsoft.com,tensorflow machine learning skills learning
+Reinforcement Learning Foundations 60,Machine Learning,Beginner,4.8,https://www.coursera.org,reinforcement learning machine learning skills learning
+Reinforcement Learning Career Path 61,Machine Learning,Intermediate,4.9,https://www.freecodecamp.org,reinforcement learning machine learning skills learning
+PyTorch Complete Guide 62,Machine Learning,Intermediate,4.7,https://www.udemy.com,pytorch machine learning skills learning
+Data Analytics Career Path 1,Data Science,Intermediate,4.6,https://www.coursera.org,data analytics data science skills learning
+Power BI Advanced Systems 2,Data Science,Advanced,4.7,https://www.edx.org,power bi data science skills learning
+Tableau Essentials 3,Data Science,Advanced,4.7,https://www.edx.org,tableau data science skills learning
+Power BI Professional 4,Data Science,Intermediate,4.8,https://www.edx.org,power bi data science skills learning
+Pandas Complete Guide 5,Data Science,Beginner,4.6,https://www.edx.org,pandas data science skills learning
+Big Data Complete Guide 6,Data Science,Intermediate,4.6,https://www.freecodecamp.org,big data data science skills learning
+Tableau Bootcamp 7,Data Science,Beginner,4.6,https://www.freecodecamp.org,tableau data science skills learning
+Big Data Hands-on Training 8,Data Science,Beginner,4.8,https://www.udemy.com,big data data science skills learning
+Tableau Complete Guide 9,Data Science,Advanced,4.7,https://www.edx.org,tableau data science skills learning
+Power BI Essentials 10,Data Science,Advanced,4.9,https://www.udemy.com,power bi data science skills learning
+Tableau Complete Guide 11,Data Science,Intermediate,4.8,https://www.coursera.org,tableau data science skills learning
+Data Analytics Career Path 12,Data Science,Advanced,4.6,https://learn.microsoft.com,data analytics data science skills learning
+Tableau Projects 13,Data Science,Intermediate,4.6,https://www.freecodecamp.org,tableau data science skills learning
+Power BI Professional 14,Data Science,Beginner,4.8,https://www.udemy.com,power bi data science skills learning
+Power BI Career Path 15,Data Science,Beginner,4.6,https://www.coursera.org,power bi data science skills learning
+Big Data Professional 16,Data Science,Advanced,4.7,https://www.edx.org,big data data science skills learning
+Power BI Professional 17,Data Science,Beginner,4.5,https://www.freecodecamp.org,power bi data science skills learning
+Data Analytics Essentials 18,Data Science,Advanced,4.8,https://www.edx.org,data analytics data science skills learning
+Pandas Essentials 19,Data Science,Advanced,4.5,https://www.udemy.com,pandas data science skills learning
+Power BI Career Path 20,Data Science,Beginner,4.8,https://www.coursera.org,power bi data science skills learning
+Power BI Essentials 21,Data Science,Beginner,4.9,https://www.freecodecamp.org,power bi data science skills learning
+Big Data Complete Guide 22,Data Science,Intermediate,4.8,https://www.coursera.org,big data data science skills learning
+Big Data Professional 23,Data Science,Advanced,4.6,https://www.coursera.org,big data data science skills learning
+Data Analytics Bootcamp 24,Data Science,Advanced,4.7,https://learn.microsoft.com,data analytics data science skills learning
+Big Data Complete Guide 25,Data Science,Advanced,4.9,https://www.edx.org,big data data science skills learning
+Pandas Hands-on Training 26,Data Science,Advanced,4.6,https://www.edx.org,pandas data science skills learning
+Power BI Professional 27,Data Science,Intermediate,4.8,https://www.udemy.com,power bi data science skills learning
+Big Data Advanced Systems 28,Data Science,Intermediate,4.7,https://learn.microsoft.com,big data data science skills learning
+Tableau Career Path 29,Data Science,Beginner,4.6,https://www.coursera.org,tableau data science skills learning
+Data Analytics Essentials 30,Data Science,Advanced,4.5,https://www.udemy.com,data analytics data science skills learning
+Data Analytics Advanced Systems 31,Data Science,Advanced,4.6,https://www.coursera.org,data analytics data science skills learning
+Tableau Projects 32,Data Science,Beginner,4.7,https://www.edx.org,tableau data science skills learning
+Big Data Hands-on Training 33,Data Science,Intermediate,4.6,https://www.coursera.org,big data data science skills learning
+Pandas Projects 34,Data Science,Intermediate,4.6,https://www.freecodecamp.org,pandas data science skills learning
+Pandas Bootcamp 35,Data Science,Intermediate,4.6,https://www.udemy.com,pandas data science skills learning
+Data Analytics Advanced Systems 36,Data Science,Advanced,4.7,https://www.coursera.org,data analytics data science skills learning
+Tableau Projects 37,Data Science,Advanced,4.7,https://www.udemy.com,tableau data science skills learning
+Pandas Professional 38,Data Science,Advanced,4.7,https://www.edx.org,pandas data science skills learning
+Big Data Projects 39,Data Science,Intermediate,4.6,https://www.udemy.com,big data data science skills learning
+Big Data Complete Guide 40,Data Science,Beginner,4.9,https://learn.microsoft.com,big data data science skills learning
+Pandas Foundations 41,Data Science,Advanced,4.5,https://learn.microsoft.com,pandas data science skills learning
+Data Analytics Bootcamp 42,Data Science,Advanced,4.8,https://learn.microsoft.com,data analytics data science skills learning
+Power BI Foundations 43,Data Science,Intermediate,4.7,https://www.edx.org,power bi data science skills learning
+Big Data Professional 44,Data Science,Beginner,4.6,https://www.udemy.com,big data data science skills learning
+Tableau Essentials 45,Data Science,Advanced,4.7,https://www.coursera.org,tableau data science skills learning
+Data Analytics Essentials 46,Data Science,Intermediate,4.8,https://www.udemy.com,data analytics data science skills learning
+Big Data Essentials 47,Data Science,Beginner,4.5,https://learn.microsoft.com,big data data science skills learning
+Big Data Projects 48,Data Science,Advanced,4.9,https://www.coursera.org,big data data science skills learning
+Big Data Complete Guide 49,Data Science,Beginner,4.8,https://www.coursera.org,big data data science skills learning
+Big Data Essentials 50,Data Science,Advanced,4.6,https://www.udemy.com,big data data science skills learning
+Power BI Essentials 51,Data Science,Advanced,4.7,https://www.edx.org,power bi data science skills learning
+Tableau Bootcamp 52,Data Science,Advanced,4.7,https://learn.microsoft.com,tableau data science skills learning
+Big Data Projects 53,Data Science,Advanced,4.8,https://learn.microsoft.com,big data data science skills learning
+Data Analytics Complete Guide 54,Data Science,Advanced,4.7,https://www.edx.org,data analytics data science skills learning
+Power BI Career Path 55,Data Science,Beginner,4.8,https://www.edx.org,power bi data science skills learning
+Data Analytics Professional 56,Data Science,Beginner,4.9,https://www.freecodecamp.org,data analytics data science skills learning
+Data Analytics Foundations 57,Data Science,Advanced,4.5,https://www.freecodecamp.org,data analytics data science skills learning
+Data Analytics Career Path 58,Data Science,Advanced,4.6,https://learn.microsoft.com,data analytics data science skills learning
+Data Analytics Foundations 59,Data Science,Beginner,4.5,https://www.edx.org,data analytics data science skills learning
+Power BI Hands-on Training 60,Data Science,Intermediate,4.7,https://www.udemy.com,power bi data science skills learning
+Big Data Projects 61,Data Science,Beginner,4.8,https://learn.microsoft.com,big data data science skills learning
+Tableau Essentials 62,Data Science,Advanced,4.5,https://www.edx.org,tableau data science skills learning
+Frontend Foundations 1,Web Development,Beginner,4.7,https://www.udemy.com,frontend web development skills learning
+React Career Path 2,Web Development,Advanced,4.7,https://www.coursera.org,react web development skills learning
+Next.js Foundations 3,Web Development,Intermediate,4.6,https://www.udemy.com,next.js web development skills learning
+Next.js Bootcamp 4,Web Development,Beginner,4.6,https://www.udemy.com,next.js web development skills learning
+Angular Bootcamp 5,Web Development,Beginner,4.7,https://learn.microsoft.com,angular web development skills learning
+MERN Complete Guide 6,Web Development,Advanced,4.9,https://www.udemy.com,mern web development skills learning
+Next.js Complete Guide 7,Web Development,Intermediate,4.9,https://www.freecodecamp.org,next.js web development skills learning
+MERN Essentials 8,Web Development,Beginner,4.9,https://www.coursera.org,mern web development skills learning
+Angular Essentials 9,Web Development,Intermediate,4.6,https://www.coursera.org,angular web development skills learning
+MERN Professional 10,Web Development,Advanced,4.8,https://learn.microsoft.com,mern web development skills learning
+React Masterclass 11,Web Development,Intermediate,4.6,https://learn.microsoft.com,react web development skills learning
+Angular Foundations 12,Web Development,Intermediate,4.6,https://www.coursera.org,angular web development skills learning
+Next.js Masterclass 13,Web Development,Beginner,4.6,https://www.edx.org,next.js web development skills learning
+React Hands-on Training 14,Web Development,Intermediate,4.9,https://www.freecodecamp.org,react web development skills learning
+MERN Professional 15,Web Development,Intermediate,4.8,https://www.udemy.com,mern web development skills learning
+Node.js Bootcamp 16,Web Development,Beginner,4.8,https://www.edx.org,node.js web development skills learning
+Node.js Projects 17,Web Development,Intermediate,4.6,https://www.udemy.com,node.js web development skills learning
+Frontend Foundations 18,Web Development,Beginner,4.8,https://www.udemy.com,frontend web development skills learning
+Frontend Projects 19,Web Development,Intermediate,4.8,https://www.edx.org,frontend web development skills learning
+Node.js Advanced Systems 20,Web Development,Beginner,4.8,https://www.coursera.org,node.js web development skills learning
+MERN Hands-on Training 21,Web Development,Intermediate,4.6,https://www.udemy.com,mern web development skills learning
+React Advanced Systems 22,Web Development,Intermediate,4.8,https://www.udemy.com,react web development skills learning
+Angular Complete Guide 23,Web Development,Advanced,4.6,https://www.coursera.org,angular web development skills learning
+React Projects 24,Web Development,Intermediate,4.5,https://www.coursera.org,react web development skills learning
+React Complete Guide 25,Web Development,Advanced,4.5,https://www.edx.org,react web development skills learning
+Frontend Projects 26,Web Development,Advanced,4.8,https://www.freecodecamp.org,frontend web development skills learning
+Next.js Projects 27,Web Development,Beginner,4.5,https://www.udemy.com,next.js web development skills learning
+Next.js Projects 28,Web Development,Advanced,4.7,https://learn.microsoft.com,next.js web development skills learning
+Node.js Career Path 29,Web Development,Beginner,4.7,https://www.edx.org,node.js web development skills learning
+Node.js Advanced Systems 30,Web Development,Beginner,4.6,https://www.udemy.com,node.js web development skills learning
+React Advanced Systems 31,Web Development,Beginner,4.7,https://www.udemy.com,react web development skills learning
+Next.js Essentials 32,Web Development,Intermediate,4.5,https://www.udemy.com,next.js web development skills learning
+MERN Hands-on Training 33,Web Development,Advanced,4.7,https://www.freecodecamp.org,mern web development skills learning
+React Complete Guide 34,Web Development,Intermediate,4.8,https://www.coursera.org,react web development skills learning
+Frontend Projects 35,Web Development,Intermediate,4.6,https://www.edx.org,frontend web development skills learning
+Next.js Career Path 36,Web Development,Advanced,4.7,https://www.freecodecamp.org,next.js web development skills learning
+Angular Professional 37,Web Development,Intermediate,4.7,https://learn.microsoft.com,angular web development skills learning
+Frontend Advanced Systems 38,Web Development,Intermediate,4.8,https://www.edx.org,frontend web development skills learning
+Node.js Career Path 39,Web Development,Beginner,4.6,https://www.edx.org,node.js web development skills learning
+Frontend Projects 40,Web Development,Intermediate,4.7,https://www.udemy.com,frontend web development skills learning
+React Essentials 41,Web Development,Advanced,4.8,https://www.freecodecamp.org,react web development skills learning
+Frontend Foundations 42,Web Development,Beginner,4.9,https://www.udemy.com,frontend web development skills learning
+Frontend Bootcamp 43,Web Development,Advanced,4.7,https://www.udemy.com,frontend web development skills learning
+React Masterclass 44,Web Development,Advanced,4.8,https://learn.microsoft.com,react web development skills learning
+React Projects 45,Web Development,Beginner,4.8,https://learn.microsoft.com,react web development skills learning
+React Foundations 46,Web Development,Advanced,4.7,https://www.udemy.com,react web development skills learning
+MERN Complete Guide 47,Web Development,Intermediate,4.6,https://learn.microsoft.com,mern web development skills learning
+Node.js Projects 48,Web Development,Beginner,4.8,https://www.freecodecamp.org,node.js web development skills learning
+MERN Foundations 49,Web Development,Intermediate,4.6,https://www.edx.org,mern web development skills learning
+React Complete Guide 50,Web Development,Intermediate,4.8,https://www.udemy.com,react web development skills learning
+Frontend Projects 51,Web Development,Intermediate,4.7,https://www.freecodecamp.org,frontend web development skills learning
+Node.js Professional 52,Web Development,Intermediate,4.8,https://www.coursera.org,node.js web development skills learning
+Next.js Complete Guide 53,Web Development,Beginner,4.8,https://www.edx.org,next.js web development skills learning
+Frontend Foundations 54,Web Development,Advanced,4.7,https://www.freecodecamp.org,frontend web development skills learning
+Next.js Bootcamp 55,Web Development,Intermediate,4.9,https://www.freecodecamp.org,next.js web development skills learning
+Angular Essentials 56,Web Development,Beginner,4.6,https://www.coursera.org,angular web development skills learning
+Angular Professional 57,Web Development,Intermediate,4.7,https://www.freecodecamp.org,angular web development skills learning
+Frontend Career Path 58,Web Development,Advanced,4.6,https://www.freecodecamp.org,frontend web development skills learning
+Node.js Hands-on Training 59,Web Development,Beginner,4.5,https://www.freecodecamp.org,node.js web development skills learning
+Frontend Advanced Systems 60,Web Development,Intermediate,4.6,https://www.edx.org,frontend web development skills learning
+Angular Professional 61,Web Development,Advanced,4.7,https://www.udemy.com,angular web development skills learning
+Node.js Hands-on Training 62,Web Development,Beginner,4.6,https://www.udemy.com,node.js web development skills learning
+Java Career Path 1,Programming,Advanced,4.5,https://www.udemy.com,java programming skills learning
+DSA Hands-on Training 2,Programming,Beginner,4.6,https://www.edx.org,dsa programming skills learning
+Backend Engineering Foundations 3,Programming,Advanced,4.6,https://www.freecodecamp.org,backend engineering programming skills learning
+Python Masterclass 4,Programming,Intermediate,4.7,https://www.edx.org,python programming skills learning
+DSA Foundations 5,Programming,Intermediate,4.8,https://learn.microsoft.com,dsa programming skills learning
+Java Advanced Systems 6,Programming,Advanced,4.6,https://learn.microsoft.com,java programming skills learning
+Java Complete Guide 7,Programming,Advanced,4.6,https://www.udemy.com,java programming skills learning
+Backend Engineering Masterclass 8,Programming,Intermediate,4.8,https://www.udemy.com,backend engineering programming skills learning
+Python Hands-on Training 9,Programming,Intermediate,4.7,https://www.udemy.com,python programming skills learning
+C++ Professional 10,Programming,Advanced,4.7,https://www.coursera.org,c++ programming skills learning
+C++ Bootcamp 11,Programming,Advanced,4.5,https://www.edx.org,c++ programming skills learning
+Backend Engineering Hands-on Training 12,Programming,Beginner,4.7,https://www.freecodecamp.org,backend engineering programming skills learning
+Backend Engineering Essentials 13,Programming,Intermediate,4.5,https://www.freecodecamp.org,backend engineering programming skills learning
+Java Essentials 14,Programming,Intermediate,4.7,https://www.freecodecamp.org,java programming skills learning
+Python Essentials 15,Programming,Intermediate,4.6,https://learn.microsoft.com,python programming skills learning
+Java Foundations 16,Programming,Intermediate,4.8,https://www.freecodecamp.org,java programming skills learning
+Python Career Path 17,Programming,Intermediate,4.6,https://www.coursera.org,python programming skills learning
+DSA Projects 18,Programming,Intermediate,4.7,https://www.udemy.com,dsa programming skills learning
+DSA Essentials 19,Programming,Intermediate,4.6,https://www.edx.org,dsa programming skills learning
+DSA Hands-on Training 20,Programming,Intermediate,4.7,https://www.coursera.org,dsa programming skills learning
+Java Bootcamp 21,Programming,Beginner,4.6,https://www.freecodecamp.org,java programming skills learning
+Backend Engineering Hands-on Training 22,Programming,Beginner,4.7,https://www.udemy.com,backend engineering programming skills learning
+Python Foundations 23,Programming,Beginner,4.7,https://www.udemy.com,python programming skills learning
+Backend Engineering Complete Guide 24,Programming,Beginner,4.7,https://www.edx.org,backend engineering programming skills learning
+DSA Essentials 25,Programming,Advanced,4.7,https://www.udemy.com,dsa programming skills learning
+Python Foundations 26,Programming,Advanced,4.5,https://www.freecodecamp.org,python programming skills learning
+C++ Advanced Systems 27,Programming,Beginner,4.8,https://www.edx.org,c++ programming skills learning
+C++ Career Path 28,Programming,Beginner,4.6,https://www.edx.org,c++ programming skills learning
+DSA Essentials 29,Programming,Beginner,4.5,https://learn.microsoft.com,dsa programming skills learning
+Backend Engineering Professional 30,Programming,Advanced,4.8,https://www.edx.org,backend engineering programming skills learning
+Backend Engineering Hands-on Training 31,Programming,Intermediate,4.7,https://www.udemy.com,backend engineering programming skills learning
+Python Foundations 32,Programming,Beginner,4.5,https://www.coursera.org,python programming skills learning
+Backend Engineering Professional 33,Programming,Beginner,4.8,https://learn.microsoft.com,backend engineering programming skills learning
+Java Foundations 34,Programming,Intermediate,4.5,https://learn.microsoft.com,java programming skills learning
+Java Advanced Systems 35,Programming,Intermediate,4.9,https://www.edx.org,java programming skills learning
+C++ Advanced Systems 36,Programming,Advanced,4.7,https://www.udemy.com,c++ programming skills learning
+C++ Advanced Systems 37,Programming,Beginner,4.6,https://www.udemy.com,c++ programming skills learning
+C++ Complete Guide 38,Programming,Beginner,4.9,https://www.coursera.org,c++ programming skills learning
+Python Career Path 39,Programming,Advanced,4.6,https://www.freecodecamp.org,python programming skills learning
+Python Projects 40,Programming,Beginner,4.7,https://learn.microsoft.com,python programming skills learning
+Python Bootcamp 41,Programming,Advanced,4.5,https://www.coursera.org,python programming skills learning
+Python Essentials 42,Programming,Intermediate,4.5,https://learn.microsoft.com,python programming skills learning
+Java Career Path 43,Programming,Beginner,4.5,https://www.freecodecamp.org,java programming skills learning
+Python Projects 44,Programming,Intermediate,4.5,https://www.coursera.org,python programming skills learning
+Java Projects 45,Programming,Intermediate,4.8,https://www.coursera.org,java programming skills learning
+Python Masterclass 46,Programming,Beginner,4.8,https://www.coursera.org,python programming skills learning
+DSA Bootcamp 47,Programming,Beginner,4.9,https://www.freecodecamp.org,dsa programming skills learning
+Java Advanced Systems 48,Programming,Beginner,4.7,https://www.coursera.org,java programming skills learning
+C++ Essentials 49,Programming,Advanced,4.6,https://www.edx.org,c++ programming skills learning
+Python Bootcamp 50,Programming,Advanced,4.6,https://www.udemy.com,python programming skills learning
+DSA Masterclass 51,Programming,Advanced,4.8,https://www.udemy.com,dsa programming skills learning
+Python Masterclass 52,Programming,Advanced,4.8,https://www.udemy.com,python programming skills learning
+DSA Advanced Systems 53,Programming,Intermediate,4.7,https://www.coursera.org,dsa programming skills learning
+Backend Engineering Career Path 54,Programming,Beginner,4.7,https://www.edx.org,backend engineering programming skills learning
+Backend Engineering Masterclass 55,Programming,Beginner,4.8,https://www.freecodecamp.org,backend engineering programming skills learning
+C++ Career Path 56,Programming,Intermediate,4.8,https://www.coursera.org,c++ programming skills learning
+Java Foundations 57,Programming,Beginner,4.6,https://www.edx.org,java programming skills learning
+DSA Career Path 58,Programming,Intermediate,4.7,https://www.coursera.org,dsa programming skills learning
+C++ Professional 59,Programming,Beginner,4.5,https://www.coursera.org,c++ programming skills learning
+Java Essentials 60,Programming,Beginner,4.9,https://learn.microsoft.com,java programming skills learning
+C++ Bootcamp 61,Programming,Advanced,4.5,https://www.coursera.org,c++ programming skills learning
+Python Essentials 62,Programming,Beginner,4.6,https://www.freecodecamp.org,python programming skills learning
+GCP Advanced Systems 1,Cloud Computing,Beginner,4.9,https://learn.microsoft.com,gcp cloud computing skills learning
+GCP Hands-on Training 2,Cloud Computing,Beginner,4.9,https://www.edx.org,gcp cloud computing skills learning
+Azure Advanced Systems 3,Cloud Computing,Intermediate,4.6,https://www.coursera.org,azure cloud computing skills learning
+Azure Advanced Systems 4,Cloud Computing,Advanced,4.7,https://www.coursera.org,azure cloud computing skills learning
+Terraform Hands-on Training 5,Cloud Computing,Beginner,4.7,https://learn.microsoft.com,terraform cloud computing skills learning
+Kubernetes Hands-on Training 6,Cloud Computing,Advanced,4.5,https://learn.microsoft.com,kubernetes cloud computing skills learning
+AWS Advanced Systems 7,Cloud Computing,Intermediate,4.8,https://learn.microsoft.com,aws cloud computing skills learning
+Kubernetes Foundations 8,Cloud Computing,Beginner,4.5,https://www.coursera.org,kubernetes cloud computing skills learning
+AWS Advanced Systems 9,Cloud Computing,Beginner,4.6,https://www.freecodecamp.org,aws cloud computing skills learning
+Kubernetes Masterclass 10,Cloud Computing,Beginner,4.8,https://www.freecodecamp.org,kubernetes cloud computing skills learning
+Azure Masterclass 11,Cloud Computing,Intermediate,4.8,https://www.edx.org,azure cloud computing skills learning
+Kubernetes Career Path 12,Cloud Computing,Beginner,4.7,https://www.coursera.org,kubernetes cloud computing skills learning
+GCP Hands-on Training 13,Cloud Computing,Intermediate,4.8,https://www.udemy.com,gcp cloud computing skills learning
+Azure Career Path 14,Cloud Computing,Advanced,4.8,https://www.edx.org,azure cloud computing skills learning
+Terraform Advanced Systems 15,Cloud Computing,Advanced,4.6,https://www.freecodecamp.org,terraform cloud computing skills learning
+Azure Foundations 16,Cloud Computing,Beginner,4.6,https://www.coursera.org,azure cloud computing skills learning
+Azure Projects 17,Cloud Computing,Intermediate,4.6,https://learn.microsoft.com,azure cloud computing skills learning
+GCP Hands-on Training 18,Cloud Computing,Intermediate,4.8,https://www.coursera.org,gcp cloud computing skills learning
+Azure Complete Guide 19,Cloud Computing,Intermediate,4.6,https://www.udemy.com,azure cloud computing skills learning
+Terraform Complete Guide 20,Cloud Computing,Beginner,4.5,https://www.edx.org,terraform cloud computing skills learning
+AWS Essentials 21,Cloud Computing,Intermediate,4.9,https://learn.microsoft.com,aws cloud computing skills learning
+GCP Advanced Systems 22,Cloud Computing,Advanced,4.9,https://www.udemy.com,gcp cloud computing skills learning
+Terraform Bootcamp 23,Cloud Computing,Advanced,4.6,https://www.freecodecamp.org,terraform cloud computing skills learning
+AWS Masterclass 24,Cloud Computing,Advanced,4.6,https://learn.microsoft.com,aws cloud computing skills learning
+Terraform Advanced Systems 25,Cloud Computing,Intermediate,4.8,https://learn.microsoft.com,terraform cloud computing skills learning
+Kubernetes Essentials 26,Cloud Computing,Advanced,4.9,https://www.coursera.org,kubernetes cloud computing skills learning
+AWS Career Path 27,Cloud Computing,Intermediate,4.7,https://www.freecodecamp.org,aws cloud computing skills learning
+Azure Complete Guide 28,Cloud Computing,Advanced,4.6,https://www.edx.org,azure cloud computing skills learning
+AWS Bootcamp 29,Cloud Computing,Beginner,4.7,https://www.coursera.org,aws cloud computing skills learning
+GCP Foundations 30,Cloud Computing,Advanced,4.8,https://www.freecodecamp.org,gcp cloud computing skills learning
+GCP Advanced Systems 31,Cloud Computing,Intermediate,4.7,https://www.freecodecamp.org,gcp cloud computing skills learning
+Terraform Bootcamp 32,Cloud Computing,Beginner,4.8,https://www.coursera.org,terraform cloud computing skills learning
+AWS Career Path 33,Cloud Computing,Beginner,4.8,https://learn.microsoft.com,aws cloud computing skills learning
+Kubernetes Projects 34,Cloud Computing,Beginner,4.6,https://www.freecodecamp.org,kubernetes cloud computing skills learning
+AWS Advanced Systems 35,Cloud Computing,Beginner,4.8,https://www.freecodecamp.org,aws cloud computing skills learning
+Azure Bootcamp 36,Cloud Computing,Beginner,4.9,https://www.udemy.com,azure cloud computing skills learning
+AWS Foundations 37,Cloud Computing,Advanced,4.6,https://www.udemy.com,aws cloud computing skills learning
+GCP Bootcamp 38,Cloud Computing,Intermediate,4.9,https://www.udemy.com,gcp cloud computing skills learning
+GCP Foundations 39,Cloud Computing,Beginner,4.8,https://www.udemy.com,gcp cloud computing skills learning
+Terraform Foundations 40,Cloud Computing,Intermediate,4.9,https://www.udemy.com,terraform cloud computing skills learning
+Terraform Foundations 41,Cloud Computing,Advanced,4.6,https://learn.microsoft.com,terraform cloud computing skills learning
+AWS Bootcamp 42,Cloud Computing,Advanced,4.7,https://learn.microsoft.com,aws cloud computing skills learning
+GCP Hands-on Training 43,Cloud Computing,Advanced,4.6,https://www.freecodecamp.org,gcp cloud computing skills learning
+Kubernetes Hands-on Training 44,Cloud Computing,Intermediate,4.7,https://www.coursera.org,kubernetes cloud computing skills learning
+AWS Professional 45,Cloud Computing,Beginner,4.7,https://www.coursera.org,aws cloud computing skills learning
+GCP Masterclass 46,Cloud Computing,Beginner,4.8,https://www.udemy.com,gcp cloud computing skills learning
+Terraform Career Path 47,Cloud Computing,Advanced,4.8,https://www.freecodecamp.org,terraform cloud computing skills learning
+AWS Hands-on Training 48,Cloud Computing,Advanced,4.6,https://www.udemy.com,aws cloud computing skills learning
+Terraform Professional 49,Cloud Computing,Beginner,4.7,https://www.freecodecamp.org,terraform cloud computing skills learning
+Terraform Complete Guide 50,Cloud Computing,Beginner,4.7,https://www.coursera.org,terraform cloud computing skills learning
+Azure Projects 51,Cloud Computing,Intermediate,4.7,https://www.freecodecamp.org,azure cloud computing skills learning
+Azure Professional 52,Cloud Computing,Advanced,4.7,https://www.freecodecamp.org,azure cloud computing skills learning
+AWS Career Path 53,Cloud Computing,Beginner,4.6,https://www.freecodecamp.org,aws cloud computing skills learning
+Terraform Advanced Systems 54,Cloud Computing,Beginner,4.7,https://www.coursera.org,terraform cloud computing skills learning
+Azure Masterclass 55,Cloud Computing,Advanced,4.7,https://www.edx.org,azure cloud computing skills learning
+Kubernetes Complete Guide 56,Cloud Computing,Intermediate,4.7,https://learn.microsoft.com,kubernetes cloud computing skills learning
+AWS Masterclass 57,Cloud Computing,Advanced,4.7,https://www.udemy.com,aws cloud computing skills learning
+GCP Bootcamp 58,Cloud Computing,Beginner,4.6,https://www.udemy.com,gcp cloud computing skills learning
+Terraform Bootcamp 59,Cloud Computing,Intermediate,4.7,https://learn.microsoft.com,terraform cloud computing skills learning
+GCP Advanced Systems 60,Cloud Computing,Intermediate,4.5,https://www.coursera.org,gcp cloud computing skills learning
+AWS Hands-on Training 61,Cloud Computing,Beginner,4.7,https://www.edx.org,aws cloud computing skills learning
+Kubernetes Advanced Systems 62,Cloud Computing,Beginner,4.8,https://www.freecodecamp.org,kubernetes cloud computing skills learning
+Monitoring Bootcamp 1,DevOps,Intermediate,4.6,https://www.edx.org,monitoring devops skills learning
+Monitoring Foundations 2,DevOps,Intermediate,4.8,https://www.udemy.com,monitoring devops skills learning
+Monitoring Projects 3,DevOps,Beginner,4.7,https://www.udemy.com,monitoring devops skills learning
+CI/CD Projects 4,DevOps,Intermediate,4.9,https://www.edx.org,ci/cd devops skills learning
+Automation Hands-on Training 5,DevOps,Beginner,4.6,https://www.udemy.com,automation devops skills learning
+Docker Foundations 6,DevOps,Advanced,4.9,https://www.udemy.com,docker devops skills learning
+Monitoring Foundations 7,DevOps,Intermediate,4.8,https://www.edx.org,monitoring devops skills learning
+Automation Essentials 8,DevOps,Beginner,4.8,https://www.edx.org,automation devops skills learning
+Automation Advanced Systems 9,DevOps,Intermediate,4.6,https://www.udemy.com,automation devops skills learning
+CI/CD Bootcamp 10,DevOps,Advanced,4.9,https://www.coursera.org,ci/cd devops skills learning
+Automation Advanced Systems 11,DevOps,Beginner,4.8,https://www.coursera.org,automation devops skills learning
+Docker Projects 12,DevOps,Intermediate,4.6,https://www.coursera.org,docker devops skills learning
+CI/CD Professional 13,DevOps,Beginner,4.5,https://learn.microsoft.com,ci/cd devops skills learning
+Monitoring Complete Guide 14,DevOps,Beginner,4.9,https://www.edx.org,monitoring devops skills learning
+CI/CD Masterclass 15,DevOps,Advanced,4.5,https://www.coursera.org,ci/cd devops skills learning
+Linux Complete Guide 16,DevOps,Beginner,4.6,https://www.udemy.com,linux devops skills learning
+Automation Complete Guide 17,DevOps,Intermediate,4.6,https://www.coursera.org,automation devops skills learning
+Linux Career Path 18,DevOps,Beginner,4.8,https://www.edx.org,linux devops skills learning
+Monitoring Professional 19,DevOps,Advanced,4.6,https://www.freecodecamp.org,monitoring devops skills learning
+Docker Hands-on Training 20,DevOps,Beginner,4.5,https://www.freecodecamp.org,docker devops skills learning
+Automation Advanced Systems 21,DevOps,Advanced,4.7,https://www.udemy.com,automation devops skills learning
+Docker Masterclass 22,DevOps,Intermediate,4.7,https://learn.microsoft.com,docker devops skills learning
+Docker Hands-on Training 23,DevOps,Advanced,4.8,https://learn.microsoft.com,docker devops skills learning
+Linux Foundations 24,DevOps,Intermediate,4.5,https://www.edx.org,linux devops skills learning
+Automation Professional 25,DevOps,Advanced,4.7,https://www.edx.org,automation devops skills learning
+Linux Advanced Systems 26,DevOps,Beginner,4.7,https://www.udemy.com,linux devops skills learning
+Monitoring Professional 27,DevOps,Beginner,4.7,https://www.udemy.com,monitoring devops skills learning
+Docker Projects 28,DevOps,Advanced,4.6,https://www.edx.org,docker devops skills learning
+Docker Bootcamp 29,DevOps,Beginner,4.9,https://www.edx.org,docker devops skills learning
+Monitoring Masterclass 30,DevOps,Intermediate,4.8,https://www.freecodecamp.org,monitoring devops skills learning
+Docker Professional 31,DevOps,Beginner,4.6,https://www.freecodecamp.org,docker devops skills learning
+CI/CD Essentials 32,DevOps,Intermediate,4.7,https://learn.microsoft.com,ci/cd devops skills learning
+Docker Advanced Systems 33,DevOps,Intermediate,4.6,https://learn.microsoft.com,docker devops skills learning
+CI/CD Advanced Systems 34,DevOps,Intermediate,4.9,https://www.edx.org,ci/cd devops skills learning
+Automation Foundations 35,DevOps,Advanced,4.5,https://www.freecodecamp.org,automation devops skills learning
+Docker Foundations 36,DevOps,Advanced,4.7,https://www.edx.org,docker devops skills learning
+Monitoring Hands-on Training 37,DevOps,Intermediate,4.7,https://www.freecodecamp.org,monitoring devops skills learning
+Docker Career Path 38,DevOps,Advanced,4.8,https://www.coursera.org,docker devops skills learning
+Automation Professional 39,DevOps,Beginner,4.7,https://learn.microsoft.com,automation devops skills learning
+Linux Bootcamp 40,DevOps,Beginner,4.8,https://www.freecodecamp.org,linux devops skills learning
+Monitoring Professional 41,DevOps,Advanced,4.8,https://learn.microsoft.com,monitoring devops skills learning
+Monitoring Advanced Systems 42,DevOps,Advanced,4.6,https://learn.microsoft.com,monitoring devops skills learning
+CI/CD Career Path 43,DevOps,Beginner,4.5,https://learn.microsoft.com,ci/cd devops skills learning
+Linux Essentials 44,DevOps,Intermediate,4.6,https://www.freecodecamp.org,linux devops skills learning
+Monitoring Essentials 45,DevOps,Beginner,4.5,https://learn.microsoft.com,monitoring devops skills learning
+Linux Foundations 46,DevOps,Advanced,4.9,https://www.edx.org,linux devops skills learning
+Docker Career Path 47,DevOps,Advanced,4.7,https://www.coursera.org,docker devops skills learning
+Linux Professional 48,DevOps,Beginner,4.6,https://www.coursera.org,linux devops skills learning
+CI/CD Professional 49,DevOps,Advanced,4.5,https://learn.microsoft.com,ci/cd devops skills learning
+Automation Bootcamp 50,DevOps,Beginner,4.7,https://www.freecodecamp.org,automation devops skills learning
+Docker Bootcamp 51,DevOps,Advanced,4.7,https://learn.microsoft.com,docker devops skills learning
+Linux Career Path 52,DevOps,Advanced,4.6,https://www.udemy.com,linux devops skills learning
+Linux Projects 53,DevOps,Advanced,4.8,https://www.udemy.com,linux devops skills learning
+Linux Masterclass 54,DevOps,Beginner,4.9,https://learn.microsoft.com,linux devops skills learning
+Docker Essentials 55,DevOps,Beginner,4.8,https://www.edx.org,docker devops skills learning
+Automation Foundations 56,DevOps,Intermediate,4.9,https://www.edx.org,automation devops skills learning
+Docker Complete Guide 57,DevOps,Beginner,4.7,https://www.edx.org,docker devops skills learning
+Docker Foundations 58,DevOps,Advanced,4.6,https://www.coursera.org,docker devops skills learning
+Docker Bootcamp 59,DevOps,Intermediate,4.8,https://www.coursera.org,docker devops skills learning
+Linux Masterclass 60,DevOps,Beginner,4.9,https://www.coursera.org,linux devops skills learning
+Docker Professional 61,DevOps,Beginner,4.9,https://learn.microsoft.com,docker devops skills learning
+Monitoring Essentials 62,DevOps,Advanced,4.9,https://www.freecodecamp.org,monitoring devops skills learning
+Network Security Advanced Systems 1,Cybersecurity,Intermediate,4.8,https://www.coursera.org,network security cybersecurity skills learning
+Cloud Security Career Path 2,Cybersecurity,Advanced,4.6,https://www.edx.org,cloud security cybersecurity skills learning
+Digital Forensics Advanced Systems 3,Cybersecurity,Advanced,4.8,https://www.edx.org,digital forensics cybersecurity skills learning
+Digital Forensics Complete Guide 4,Cybersecurity,Beginner,4.5,https://learn.microsoft.com,digital forensics cybersecurity skills learning
+Cloud Security Complete Guide 5,Cybersecurity,Intermediate,4.6,https://www.coursera.org,cloud security cybersecurity skills learning
+SOC Career Path 6,Cybersecurity,Intermediate,4.8,https://www.udemy.com,soc cybersecurity skills learning
+Digital Forensics Advanced Systems 7,Cybersecurity,Intermediate,4.7,https://www.coursera.org,digital forensics cybersecurity skills learning
+Network Security Hands-on Training 8,Cybersecurity,Advanced,4.9,https://www.udemy.com,network security cybersecurity skills learning
+Cloud Security Advanced Systems 9,Cybersecurity,Beginner,4.8,https://www.coursera.org,cloud security cybersecurity skills learning
+SOC Career Path 10,Cybersecurity,Beginner,4.5,https://www.udemy.com,soc cybersecurity skills learning
+Network Security Hands-on Training 11,Cybersecurity,Intermediate,4.8,https://learn.microsoft.com,network security cybersecurity skills learning
+SOC Hands-on Training 12,Cybersecurity,Intermediate,4.9,https://www.freecodecamp.org,soc cybersecurity skills learning
+Ethical Hacking Projects 13,Cybersecurity,Advanced,4.7,https://www.freecodecamp.org,ethical hacking cybersecurity skills learning
+Network Security Masterclass 14,Cybersecurity,Intermediate,4.7,https://www.udemy.com,network security cybersecurity skills learning
+SOC Bootcamp 15,Cybersecurity,Intermediate,4.6,https://www.coursera.org,soc cybersecurity skills learning
+Network Security Professional 16,Cybersecurity,Beginner,4.9,https://learn.microsoft.com,network security cybersecurity skills learning
+SOC Hands-on Training 17,Cybersecurity,Beginner,4.9,https://www.udemy.com,soc cybersecurity skills learning
+Ethical Hacking Career Path 18,Cybersecurity,Advanced,4.8,https://www.edx.org,ethical hacking cybersecurity skills learning
+Network Security Foundations 19,Cybersecurity,Intermediate,4.7,https://www.edx.org,network security cybersecurity skills learning
+SOC Projects 20,Cybersecurity,Intermediate,4.8,https://learn.microsoft.com,soc cybersecurity skills learning
+SOC Professional 21,Cybersecurity,Intermediate,4.8,https://www.edx.org,soc cybersecurity skills learning
+Digital Forensics Complete Guide 22,Cybersecurity,Advanced,4.9,https://www.coursera.org,digital forensics cybersecurity skills learning
+SOC Complete Guide 23,Cybersecurity,Intermediate,4.7,https://www.udemy.com,soc cybersecurity skills learning
+Digital Forensics Masterclass 24,Cybersecurity,Advanced,4.6,https://learn.microsoft.com,digital forensics cybersecurity skills learning
+SOC Hands-on Training 25,Cybersecurity,Intermediate,4.6,https://www.edx.org,soc cybersecurity skills learning
+Cloud Security Professional 26,Cybersecurity,Advanced,4.7,https://www.edx.org,cloud security cybersecurity skills learning
+SOC Career Path 27,Cybersecurity,Advanced,4.7,https://learn.microsoft.com,soc cybersecurity skills learning
+Digital Forensics Advanced Systems 28,Cybersecurity,Intermediate,4.5,https://www.coursera.org,digital forensics cybersecurity skills learning
+Ethical Hacking Masterclass 29,Cybersecurity,Beginner,4.8,https://www.udemy.com,ethical hacking cybersecurity skills learning
+SOC Advanced Systems 30,Cybersecurity,Beginner,4.6,https://www.coursera.org,soc cybersecurity skills learning
+Digital Forensics Hands-on Training 31,Cybersecurity,Beginner,4.5,https://www.coursera.org,digital forensics cybersecurity skills learning
+Ethical Hacking Complete Guide 32,Cybersecurity,Beginner,4.8,https://www.coursera.org,ethical hacking cybersecurity skills learning
+SOC Masterclass 33,Cybersecurity,Intermediate,4.9,https://learn.microsoft.com,soc cybersecurity skills learning
+Cloud Security Hands-on Training 34,Cybersecurity,Beginner,4.8,https://learn.microsoft.com,cloud security cybersecurity skills learning
+Cloud Security Bootcamp 35,Cybersecurity,Beginner,4.8,https://www.edx.org,cloud security cybersecurity skills learning
+Ethical Hacking Bootcamp 36,Cybersecurity,Advanced,4.6,https://learn.microsoft.com,ethical hacking cybersecurity skills learning
+SOC Bootcamp 37,Cybersecurity,Advanced,4.6,https://www.freecodecamp.org,soc cybersecurity skills learning
+Cloud Security Advanced Systems 38,Cybersecurity,Beginner,4.9,https://learn.microsoft.com,cloud security cybersecurity skills learning
+Cloud Security Career Path 39,Cybersecurity,Beginner,4.6,https://www.freecodecamp.org,cloud security cybersecurity skills learning
+Digital Forensics Masterclass 40,Cybersecurity,Advanced,4.8,https://www.udemy.com,digital forensics cybersecurity skills learning
+Network Security Career Path 41,Cybersecurity,Advanced,4.8,https://www.udemy.com,network security cybersecurity skills learning
+Cloud Security Career Path 42,Cybersecurity,Beginner,4.6,https://www.freecodecamp.org,cloud security cybersecurity skills learning
+Ethical Hacking Hands-on Training 43,Cybersecurity,Intermediate,4.6,https://www.udemy.com,ethical hacking cybersecurity skills learning
+Network Security Bootcamp 44,Cybersecurity,Beginner,4.8,https://www.udemy.com,network security cybersecurity skills learning
+Ethical Hacking Hands-on Training 45,Cybersecurity,Beginner,4.7,https://www.coursera.org,ethical hacking cybersecurity skills learning
+Digital Forensics Hands-on Training 46,Cybersecurity,Intermediate,4.7,https://www.freecodecamp.org,digital forensics cybersecurity skills learning
+SOC Essentials 47,Cybersecurity,Advanced,4.6,https://learn.microsoft.com,soc cybersecurity skills learning
+Cloud Security Professional 48,Cybersecurity,Advanced,4.9,https://www.coursera.org,cloud security cybersecurity skills learning
+Digital Forensics Advanced Systems 49,Cybersecurity,Advanced,4.9,https://www.udemy.com,digital forensics cybersecurity skills learning
+Ethical Hacking Career Path 50,Cybersecurity,Intermediate,4.7,https://learn.microsoft.com,ethical hacking cybersecurity skills learning
+Network Security Professional 51,Cybersecurity,Intermediate,4.6,https://www.coursera.org,network security cybersecurity skills learning
+Ethical Hacking Advanced Systems 52,Cybersecurity,Intermediate,4.6,https://www.edx.org,ethical hacking cybersecurity skills learning
+Ethical Hacking Foundations 53,Cybersecurity,Intermediate,4.7,https://www.freecodecamp.org,ethical hacking cybersecurity skills learning
+SOC Advanced Systems 54,Cybersecurity,Intermediate,4.8,https://www.freecodecamp.org,soc cybersecurity skills learning
+Cloud Security Projects 55,Cybersecurity,Beginner,4.8,https://www.edx.org,cloud security cybersecurity skills learning
+Network Security Advanced Systems 56,Cybersecurity,Beginner,4.5,https://www.freecodecamp.org,network security cybersecurity skills learning
+Network Security Essentials 57,Cybersecurity,Intermediate,4.6,https://learn.microsoft.com,network security cybersecurity skills learning
+Digital Forensics Masterclass 58,Cybersecurity,Advanced,4.9,https://www.edx.org,digital forensics cybersecurity skills learning
+SOC Hands-on Training 59,Cybersecurity,Beginner,4.6,https://learn.microsoft.com,soc cybersecurity skills learning
+Ethical Hacking Career Path 60,Cybersecurity,Intermediate,4.8,https://www.freecodecamp.org,ethical hacking cybersecurity skills learning
+SOC Professional 61,Cybersecurity,Beginner,4.7,https://learn.microsoft.com,soc cybersecurity skills learning
+Cloud Security Advanced Systems 62,Cybersecurity,Beginner,4.8,https://www.freecodecamp.org,cloud security cybersecurity skills learning
+Advanced AI Systems,AI,Advanced,4.9,https://www.coursera.org,ai llm advanced systems
+Enterprise Cloud Engineering,Cloud Computing,Advanced,4.8,https://www.udemy.com,cloud aws azure engineering
+Modern DevOps Automation,DevOps,Intermediate,4.8,https://www.coursera.org,devops cicd automation
+Secure Web Applications,Cybersecurity,Intermediate,4.7,https://www.udemy.com,security web cybersecurity
