@@ -18,10 +18,6 @@ def home():
     return "Smart Learning Backend Running"
 
 
-# -------------------------
-# RECOMMENDATIONS
-# -------------------------
-
 @app.route("/recommend", methods=["POST"])
 def recommend():
 
@@ -40,10 +36,6 @@ def recommend():
     return jsonify(recommendations)
 
 
-# -------------------------
-# TRENDING
-# -------------------------
-
 @app.route("/trending", methods=["GET"])
 def trending():
 
@@ -51,10 +43,6 @@ def trending():
 
     return jsonify(trending_courses)
 
-
-# -------------------------
-# ALL CATEGORIES
-# -------------------------
 
 @app.route("/categories", methods=["GET"])
 def categories():
@@ -64,10 +52,6 @@ def categories():
     )
 
 
-# -------------------------
-# COURSES BY CATEGORY
-# -------------------------
-
 @app.route("/courses/<category>", methods=["GET"])
 def courses_by_category(category):
 
@@ -75,10 +59,6 @@ def courses_by_category(category):
         get_courses_by_category(category)
     )
 
-
-# -------------------------
-# ALL COURSES
-# -------------------------
 
 @app.route("/courses/all", methods=["GET"])
 def all_courses():

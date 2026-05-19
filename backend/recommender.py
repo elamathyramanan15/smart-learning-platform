@@ -64,22 +64,15 @@ def get_recommendations(user_interest, saved_courses):
                 saved.get("tags", "")
             )
 
-        # -------------------------
-        # ML EMBEDDING FOR USER
-        # -------------------------
+       
         user_embedding = model.encode([user_text])
 
-        # -------------------------
-        # FIXED ALIGNMENT LOGIC
-        # -------------------------
 
         filtered_indices = filtered_courses.index.to_list()
 
         filtered_embeddings = course_embeddings[filtered_indices]
 
-        # -------------------------
-        # COSINE SIMILARITY
-        # -------------------------
+        
         similarity_scores = cosine_similarity(
             user_embedding,
             filtered_embeddings
@@ -109,9 +102,6 @@ def get_recommendations(user_interest, saved_courses):
         return get_trending_courses()
 
 
-# -------------------------
-# TRENDING COURSES
-# -------------------------
 
 def get_trending_courses():
     trending = courses.sort_values(
@@ -121,17 +111,9 @@ def get_trending_courses():
     return trending.head(12).to_dict(orient="records")
 
 
-# -------------------------
-# GET ALL CATEGORIES
-# -------------------------
-
 def get_all_categories():
     return sorted(courses["category"].unique().tolist())
 
-
-# -------------------------
-# GET COURSES BY CATEGORY
-# -------------------------
 
 def get_courses_by_category(category):
     filtered = courses[
@@ -139,10 +121,6 @@ def get_courses_by_category(category):
     ]
     return filtered.to_dict(orient="records")
 
-
-# -------------------------
-# GET ALL COURSES
-# -------------------------
 
 def get_all_courses():
     return courses.to_dict(orient="records")
